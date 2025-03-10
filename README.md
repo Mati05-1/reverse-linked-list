@@ -41,4 +41,5 @@ Para evaluar el funcionamiento de su código, deberá realizar lo siguiente en e
 3) Utilizar el método **Reverse Inplace** para invertir la lista original.
 
 ## Results
+
 ![Console results](https://github.com/Mati05-1/reverse-linked-list.git)
