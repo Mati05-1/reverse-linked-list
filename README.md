@@ -3,7 +3,7 @@
 Fecha: Marzo 02, 2023  
 Duración: 1h 20m
 
-## Instrucciones
+## Instrucciones importantes de leer:
 
 Utilizando como base las clases *Linked List* y *Stack* que se encuentran en el Gist, realizar las siguientes modificaciones:
 
